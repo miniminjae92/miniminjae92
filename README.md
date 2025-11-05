@@ -3,8 +3,13 @@
 >Backend Engineer 🌱 | Building reliable and scalable systems ⚙️ | Driven by “Why?” 🚀
 
 ---
+
+
+
+---
+
 <details>
-  <summary>🧭 <b>About Me</b></summary>
+  <summary> 👋 <b>About Me</b></summary>
 
   <br/>
   
@@ -14,21 +19,23 @@
 
   ---
   
-  ## 🛠️ My Tech Stack
+  ### 🛠️ My Tech Stack
+  
+  ---
+  <!-- TODO: 추후 추가 예정
+  ### ✨ Projects
   
   ---
   
-  ## ✨ Projects
-  
+  ### ✍️ Recent Blog Posts
+
   ---
-  
-  ## ✍️ Recent Blog Posts
+  -->
+  ### ☕ Connect
 
   ---
   
-  ## ☕ Connect
-  
-  ## 📜 Certificates
+  ### 📜 Certificates
   |Certification|Issued By|Year|
   |---|---|---|
   |Engineer Information Processing _(정보처리기사)_|HRD Korea|2025|
@@ -38,5 +45,3 @@
 </details>
 
 ---
-
-## 📈 GitHub Activity
