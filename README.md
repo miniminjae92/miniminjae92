@@ -47,12 +47,11 @@
   
 </details>
 
-<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miniminjae92&layout=donut&theme=transparent&hide_border=true&stats_format=percentages)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miniminjae92&show_icons=true&theme=transparent&hide_border=true&custom_title=My%20GitHub%20Journey)
 
-<br/><br/>
+<br/>
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=miniminjae92&color=green&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=miniminjae92&color=lightgrey&style=flat" alt="profile views"/>
 </p>
