@@ -1,16 +1,38 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Minjae's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-<!--
-**miniminjae92/miniminjae92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>Backend Engineer 🌱 | Building reliable and scalable systems ⚙️ | Driven by “Why?” 🚀
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 About Me
+- 🌱 Learning `Java Backend Development`
+- 🧩 Interested in `CSE`, `Backend Development`, `Infrastructure`, `Productivity`
+- 🪶 Writing about my journey at [miniminjae92.github.io](https://minjae-dev.github.io)
+
+---
+
+## 🛠️ My Tech Stack
+
+---
+
+## ✨ Projects
+
+---
+
+## ✍️ Recent Blog Posts
+
+---
+
+## 📈 GitHub Activity
+
+---
+
+## ☕ Connect
+
+## 📜 Certificates
+|Certification|Issued By|Year|
+|---|---|---|
+|Engineer Information Processing _(정보처리기사)_|HRD Korea|2025|
+|Big Data Analyst _(빅데이터분석기사)_|HRD Korea|2025|
+|SQL Developer _(SQLD)_|Kdata|2024|
+
