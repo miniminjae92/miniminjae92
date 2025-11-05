@@ -52,6 +52,11 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miniminjae92&show_icons=true&theme=transparent&hide_border=true&custom_title=My%20GitHub%20Journey)
 
 <br/>
+
+---
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=miniminjae92&color=lightgrey&style=flat" alt="profile views"/>
+  <a href="https://github.com/miniminjae92">
+    <img src="https://komarev.com/ghpvc/?username=miniminjae92&color=dcdcdc&style=flat&label=VIEWS&labelColor=f5f5f5" alt="profile views"/>
+  </a>
 </p>
