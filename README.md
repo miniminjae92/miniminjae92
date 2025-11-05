@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Minjae's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
+[![header](https://capsule-render.vercel.app/api?type=waving&color=0:A8E6CF,50:DCEDC1,100:A0C4FF&text=Welcome%20to%20Minjae's%20GitHub%20👋&fontColor=003366&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)](https://github.com/miniminjae92)
 
 >Backend Engineer 🌱 | Building reliable and scalable systems ⚙️ | Driven by “Why?” 🚀 
 <br/>
