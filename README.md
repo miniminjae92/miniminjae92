@@ -1,15 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Minjae's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
->Backend Engineer 🌱 | Building reliable and scalable systems ⚙️ | Driven by “Why?” 🚀
-
----
-
-
-
----
-
+>Backend Engineer 🌱 | Building reliable and scalable systems ⚙️ | Driven by “Why?” 🚀 
+<br/>
+  
 <details>
-  <summary> 👋 <b>About Me</b></summary>
+  <summary> <b>About Me</b>  </summary>
 
   <br/>
   
@@ -21,7 +16,15 @@
   
   ### 🛠️ My Tech Stack
   
+  ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+  ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+  ![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+  
   ---
+  
   <!-- TODO: 추후 추가 예정
   ### ✨ Projects
   
@@ -44,4 +47,12 @@
   
 </details>
 
----
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miniminjae92&layout=donut&theme=transparent&hide_border=true&stats_format=percentages)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=miniminjae92&show_icons=true&theme=transparent&hide_border=true)
+
+<br/><br/>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=miniminjae92&color=green&style=flat" alt="profile views"/>
+</p>
