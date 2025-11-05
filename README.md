@@ -3,36 +3,40 @@
 >Backend Engineer 🌱 | Building reliable and scalable systems ⚙️ | Driven by “Why?” 🚀
 
 ---
+<details>
+  <summary>🧭 <b>About Me</b></summary>
 
-## 🧭 About Me
-- 🌱 Learning `Java Backend Development`
-- 🧩 Interested in `CSE`, `Backend Development`, `Infrastructure`, `Productivity`
-- 🪶 Writing about my journey at [miniminjae92.github.io](https://minjae-dev.github.io)
+  <br/>
+  
+  - 🌱 Learning `Java Backend Development`
+  - 🧩 Interested in `CSE`, `Backend Development`, `Infrastructure`, `Productivity`
+  - 🪶 Writing about my journey at [miniminjae92.github.io](https://minjae-dev.github.io)
 
----
+  ---
+  
+  ## 🛠️ My Tech Stack
+  
+  ---
+  
+  ## ✨ Projects
+  
+  ---
+  
+  ## ✍️ Recent Blog Posts
 
-## 🛠️ My Tech Stack
-
----
-
-## ✨ Projects
-
----
-
-## ✍️ Recent Blog Posts
+  ---
+  
+  ## ☕ Connect
+  
+  ## 📜 Certificates
+  |Certification|Issued By|Year|
+  |---|---|---|
+  |Engineer Information Processing _(정보처리기사)_|HRD Korea|2025|
+  |Big Data Analyst _(빅데이터분석기사)_|HRD Korea|2025|
+  |SQL Developer _(SQLD)_|Kdata|2024|
+  
+</details>
 
 ---
 
 ## 📈 GitHub Activity
-
----
-
-## ☕ Connect
-
-## 📜 Certificates
-|Certification|Issued By|Year|
-|---|---|---|
-|Engineer Information Processing _(정보처리기사)_|HRD Korea|2025|
-|Big Data Analyst _(빅데이터분석기사)_|HRD Korea|2025|
-|SQL Developer _(SQLD)_|Kdata|2024|
-
