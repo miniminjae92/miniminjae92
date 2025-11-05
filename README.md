@@ -4,14 +4,14 @@
 <br/>
   
 <details>
-  <summary> <b>About Me</b>  </summary>
+  <summary> <b>About Me</b> </summary>
 
   <br/>
   
-  - 🌱 Learning `Java Backend Development`
-  - 🧩 Interested in `CSE`, `Backend Development`, `Infrastructure`, `Productivity`
-  - 🪶 Writing about my journey at [miniminjae92.github.io](https://minjae-dev.github.io)
-
+  - 🌱 Learning `Java Backend Development`<br/>
+  - 🧩 Interested in `CSE`, `Backend Development`, `Infrastructure`, `Productivity`<br/>
+  - 🪶 Writing about my journey at [miniminjae92.github.io](https://minjae-dev.github.io)<br/>
+  
   ---
   
   ### 🛠️ My Tech Stack
@@ -35,6 +35,16 @@
   ---
   -->
   ### ☕ Connect
+
+  <p align="left">
+    <a href="mailto:miniminjae92@gmail.com">
+      <img src="https://img.shields.io/badge/mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" />
+    </a>
+    <a href="https://miniminjae92.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Blog-181717?style=flat&logo=github&logoColor=white" alt="Github pages Badge"/>
+    </a>
+  </p>
+
 
   ---
   
@@ -60,3 +70,4 @@
     <img src="https://komarev.com/ghpvc/?username=miniminjae92&color=dcdcdc&style=flat&label=VIEWS&labelColor=f5f5f5" alt="profile views"/>
   </a>
 </p>
+
