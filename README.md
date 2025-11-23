@@ -36,15 +36,9 @@
   -->
   ### ☕ Connect
 
-  <p align="left">
-    <a href="mailto:miniminjae92@gmail.com">
-      <img src="https://img.shields.io/badge/mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge" />
-    </a>
-    <a href="https://miniminjae92.github.io" target="_blank">
-      <img src="https://img.shields.io/badge/Blog-181717?style=flat&logo=github&logoColor=white" alt="Github pages Badge"/>
-    </a>
-  </p>
-
+<p align="left">
+  <a href="mailto:miniminjae92@gmail.com"><img src="https://img.shields.io/badge/mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>&nbsp;<a href="https://miniminjae.versel.app" target="_blank"><img src="https://img.shields.io/badge/Blog-black?style=flat&logo=next.js&logoColor=white" alt="Github pages Badge"/></a>
+</p>
 
   ---
   
