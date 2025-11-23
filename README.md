@@ -10,7 +10,7 @@
   
   - 🌱 Learning `Java Backend Development`<br/>
   - 🧩 Interested in `CSE`, `Backend Development`, `Infrastructure`, `Productivity`<br/>
-  - 🪶 Writing about my journey at [miniminjae92.github.io](https://minjae-dev.github.io)<br/>
+  - 🪶 Writing about my journey on [My Blog](https://miniminjae.vercel.app/)<br/>
   
   ---
   
@@ -37,7 +37,7 @@
   ### ☕ Connect
 
 <p align="left">
-  <a href="mailto:miniminjae92@gmail.com"><img src="https://img.shields.io/badge/mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>&nbsp;<a href="https://miniminjae.versel.app" target="_blank"><img src="https://img.shields.io/badge/Blog-black?style=flat&logo=next.js&logoColor=white" alt="Github pages Badge"/></a>
+  <a href="mailto:miniminjae92@gmail.com"><img src="https://img.shields.io/badge/mail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>&nbsp;<a href="https://miniminjae.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Blog-black?style=flat&logo=next.js&logoColor=white" alt="Github pages Badge"/></a>
 </p>
 
   ---
