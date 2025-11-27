@@ -2,7 +2,7 @@
 
 >Backend Engineer 🌱 | Building reliable and scalable systems ⚙️ | Driven by “Why?” 🚀 
 <br/>
-  
+<br/>  
 <details>
   <summary> <b>About Me</b> </summary>
 
@@ -51,7 +51,7 @@
   
 </details>
 
-
+<br/>
 <div>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniminjae92&layout=donut&theme=transparent&hide_border=true&stats_format=percentages" width="40%" />
   <img src="https://miniminjae92-github-readme-stats.vercel.app/api?username=miniminjae92&show_icons=true&theme=transparent&hide_border=true&custom_title=My%20GitHub%20Journey" width="55%" />
