@@ -59,9 +59,12 @@
 
 ---
 
+<!-- 
 <p align="left">
   <a href="https://github.com/miniminjae92">
     <img src="https://komarev.com/ghpvc/?username=miniminjae92&color=dcdcdc&style=flat&label=VIEWS&labelColor=f5f5f5" alt="profile views"/>
   </a>
 </p>
+-->
 
+[![Image of https://github.com/miniminjae92/profile-view-counter-mj](https://github.com/miniminjae92/profile-view-counter-mj/blob/master/svg/profile/badge.svg)](https://github.com/miniminjae92/profile-view-counter-mj)
