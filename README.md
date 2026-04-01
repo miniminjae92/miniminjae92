@@ -56,7 +56,9 @@
 <br/>
 
 <div>
+  <!--
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miniminjae92&layout=donut&theme=transparent&hide_border=true&stats_format=percentages" width="34%" />
+  -->
   <img src="https://miniminjae92-github-readme-stats.vercel.app/api?username=miniminjae92&show_icons=true&theme=transparent&hide_border=true&custom_title=My%20GitHub%20Journey" width="50%" />
 </div>
 
@@ -65,6 +67,8 @@
 ---
 
 <br/>
+
+
 
 <p align="left">
   <a href="https://github.com/miniminjae92">
