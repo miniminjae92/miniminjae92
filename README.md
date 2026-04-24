@@ -55,9 +55,10 @@
 
 <br/>
 
-<div>
-  <img src="https://miniminjae92-github-readme-stats.vercel.app/api?username=miniminjae92&show_icons=true&theme=transparent&hide_border=true&custom_title=My%20GitHub%20Journey" height="195" /><img src="https://miniminjae92-github-readme-stats.vercel.app/api/top-langs/?username=miniminjae92&layout=donut&theme=transparent&hide_border=true&stats_format=percentages" height="195" />
-</div>
+<p align="left">
+  <img src="https://miniminjae92-github-readme-stats.vercel.app/api?username=miniminjae92&show_icons=true&theme=transparent&hide_border=true&custom_title=My%20GitHub%20Journey" height="175" />
+  <img src="https://miniminjae92-github-readme-stats.vercel.app/api/top-langs/?username=miniminjae92&layout=donut&theme=transparent&hide_border=true&stats_format=percentages" height="175" />
+</p>
 
 <br/>
 
